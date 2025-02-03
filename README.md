@@ -23,3 +23,5 @@
   curl -fsSL https://ollama.ai/install.sh | sh
   ollama pull deepseek-r1:8b
   ```
+
+_Note: I did come with the idea of this extension. I followed a tutorial on YouTube by Chaao Charles (https://www.youtube.com/watch?v=cqFRE9c8048) and uploaded it on GitHub for ease of access._
