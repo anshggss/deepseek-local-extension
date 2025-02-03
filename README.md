@@ -24,4 +24,8 @@
   ollama pull deepseek-r1:8b
   ```
 
+  ## TO RUN:
+
+  I have uploaded the .vsix in the repository. Directly open it using VSCode Extensions.
+
 _Note: I did come with the idea of this extension. I followed a tutorial on YouTube by Chaao Charles (https://www.youtube.com/watch?v=cqFRE9c8048) and uploaded it on GitHub for ease of access._
