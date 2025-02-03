@@ -1,6 +1,6 @@
 # DeepSeekLocal - VS Code Extension
 
-**DeepSeekLocal** is a VS Code extension that integrates **DeepSeek-R1 (8B)** locally using [Ollama](https://github.com/jmorganca/ollama). It provides a simple webview interface to chat with DeepSeek and get AI-powered responses.
+**DeepSeekLocal** is a VS Code extension that integrates **DeepSeek-R1 (8B)** **locally** using [Ollama](https://github.com/jmorganca/ollama). It provides a simple webview interface to chat with DeepSeek and get AI-powered responses.
 
 ---
 
